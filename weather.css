@@ -1,0 +1,22 @@
+body{
+    background: linear-gradient(rgb(72, 151, 183),yellow,orange);
+}
+.nav{
+    background: linear-gradient(white,grey);
+}
+.table,thead,tbody,th,tr,td{
+    border: 1px black solid;
+}
+.btn{
+    background-color: white;
+    color: black;
+}
+.btn:hover{
+    background-color: black;
+}
+.heading{
+    background: linear-gradient(green,yellow);
+}
+#about{
+    color: black;
+}
